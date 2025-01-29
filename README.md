@@ -62,14 +62,7 @@ Welcome to my repository! This project is all about developing a Large Language 
 ## 🚀 How to Use
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/yourrepo.git
-cd yourrepo
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run training
-python train.py
+git clone https://github.com/AshadullahDanish/LLM-Building-from-Scratch
 ```
 
 ## 📜 License
